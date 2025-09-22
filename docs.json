@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Mintbay Docs",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -114,8 +114,7 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintbay_co",
-       "x": "https://mintbay.co"
+      "x": "https://x.com/mintbay_co"
     }
   }
 }
