@@ -71,13 +71,13 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Home",
+          "href": "https://mintbay.co",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Newsletter",
+          "href": "https://paragraph.com/@mintbay",
           "icon": "newspaper"
         }
       ]
