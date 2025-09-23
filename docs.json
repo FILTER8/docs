@@ -72,13 +72,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://x.com/mintbay_co"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "MINTBAY",
+      "href": "https://mintbay.co"
     }
   },
   "contextual": {
